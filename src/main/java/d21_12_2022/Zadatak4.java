@@ -53,7 +53,6 @@ public class Zadatak4 {
             } else {
                 System.out.print(xNizIndeksa.get(i) + ", ");
             }
-
         }
 
     }

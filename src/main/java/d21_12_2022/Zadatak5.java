@@ -65,7 +65,5 @@ public class Zadatak5 {
             }
         }
 
-
-
     }
 }

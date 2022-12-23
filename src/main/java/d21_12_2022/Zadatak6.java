@@ -46,7 +46,6 @@ public class Zadatak6 {
             } else {
                 System.out.print(a.get(i) + ", ");
             }
-
         }
 
     }
