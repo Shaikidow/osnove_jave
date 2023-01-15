@@ -76,14 +76,16 @@ public class Zadatak1 {
 //      /VEŽBANJE 1
 
         zbirOcena = 0;
+        int brojPolozenih = 0;
 
         for (int i = 0; i < ispiti.size(); i++) {
             if (ispiti.get(i).polozenIspit()) {
                 zbirOcena += ispiti.get(i).getOcena();
+                ++brojPolozenih;
             }
         }
 
-        prosecnaOcena = zbirOcena / ispiti.size();
+        prosecnaOcena = zbirOcena / brojPolozenih;
 
         System.out.println("\nProsečna ocena za sve položene ispite je: " + prosecnaOcena);
 
