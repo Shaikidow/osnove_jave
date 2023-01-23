@@ -22,5 +22,4 @@ public abstract class Planinar {
     public abstract double clanarina(); // RSD
 
     public abstract boolean uspesanUspon(Planina planina);
-
 }

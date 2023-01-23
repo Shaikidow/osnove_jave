@@ -33,5 +33,4 @@ public class Alpinista extends Planinar {
     public boolean uspesanUspon(Planina planina) {
         return 4000 >= planina.getVisina();
     }
-
 }

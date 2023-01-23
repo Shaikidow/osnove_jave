@@ -51,5 +51,4 @@ public class Tetrapak extends Ambalaza {
         System.out.println("Osnovna cena: " + this.osnovnaCena);
         System.out.println("Cena artikla: " + this.cenaArtikla());
     }
-
 }

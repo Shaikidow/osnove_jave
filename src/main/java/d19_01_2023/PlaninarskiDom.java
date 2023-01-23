@@ -76,5 +76,4 @@ public class PlaninarskiDom {
         }
         return ukupanPrihod;
     }
-
 }
