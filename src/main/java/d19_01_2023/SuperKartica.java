@@ -39,4 +39,5 @@ public class SuperKartica {
     public void stampaj() {
         System.out.println(this.broj + ", " + this.vlasnik);
     }
+
 }

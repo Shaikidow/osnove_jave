@@ -105,4 +105,5 @@ public class Zadatak2 {
         System.out.println("\nBroj članova koji će se uspešno popeti na vrh planine "
                 + m2.getIme() + " je " + pd.uspesniPlaninari(m2) + ".");
     }
+
 }

@@ -35,4 +35,5 @@ public class Planina {
     public void setVisina(int visina) {
         this.visina = visina;
     }
+
 }

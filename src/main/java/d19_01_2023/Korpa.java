@@ -33,4 +33,5 @@ public class Korpa {
     public double ukupnaCena(SuperKartica superKartica) {
         return this.cenaSvihAmbalaza(superKartica.getPopust());
     }
+
 }

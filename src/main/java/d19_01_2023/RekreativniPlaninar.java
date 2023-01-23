@@ -37,4 +37,5 @@ public class RekreativniPlaninar extends Planinar {
     public boolean uspesanUspon(Planina planina) {
         return this.maxUspon - (this.tezinaOpreme * 50) >= planina.getVisina();
     }
+
 }

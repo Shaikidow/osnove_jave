@@ -79,4 +79,5 @@ public class Zadatak1 {
         System.out.println("\nUkupna cena sa popustom je " + k.ukupnaCena(sk) + " RSD.");
 
     }
+
 }
