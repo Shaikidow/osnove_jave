@@ -23,5 +23,4 @@ public abstract class Planinar {
 
     public abstract boolean uspesanUspon(Planina planina);
 
-
 }
